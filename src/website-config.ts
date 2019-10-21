@@ -54,7 +54,7 @@ const config: WebsiteConfig = {
   coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
+  siteUrl: 'https://gallant-kepler-986591.netlify.com',
   facebook: 'https://www.facebook.com/ghost',
   twitter: 'https://twitter.com/tryghost',
   showSubscribe: true,
